@@ -1,2 +1,1 @@
 # Tribute-Page
-hello world
